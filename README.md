@@ -1,2 +1,2 @@
-# practical-git-class
+# Practical-Git-Class
 
