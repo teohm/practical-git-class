@@ -1,2 +1,2 @@
 #TF
-I'm a SUC student and nice to meet you!
+I'm not a SUC student and nice to meet you!
