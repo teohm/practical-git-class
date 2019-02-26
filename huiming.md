@@ -1,3 +1,3 @@
 # Huiming
 
-I'm a good programmer :D
+I'm a good programmer :)
